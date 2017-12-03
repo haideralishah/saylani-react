@@ -129,7 +129,7 @@ class CustomeLink extends React.Component {
     }
 }
 
-var google = React.createElement(CustomeLink, { link: 'https://www.google.com', linkText: 'google' });
+var google = React.createElement(CustomeLink, { link: 'https://www.google.com', linkText: 'google jee' });
 var facebook = React.createElement(CustomeLink, { link: 'https://www.facebook.com', linkText: 'facebook' });
 var br = React.createElement('br');
 ReactDOM.render(
